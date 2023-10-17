@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/vector-line-web-concept-programming-linear-banner-coding-118175196.jpg?w=1600)
+![MasterHead](https://thumbs.dreamstime.com/b/vector-line-web-concept-programming-linear-banner-coding-118175196.jpg?w=1600)
 
 <h1 align="center">Hi 👋, I'm Ahona Rahman Omi</h1>
 <h3 align="center">CS undergrad at the University of Dhaka</h3>
