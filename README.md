@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/b/vector-line-web-concept-programming-linear-banner-coding-118175196.jpg?w=1600)
+![MasterHead](https://drive.google.com/file/d/18V7_m8I3by0H9HAfoAsjnorxbm4Wfrl1/view?usp=sharing)
 
 <h1 align="center">Hi 👋, I'm Ahona Rahman</h1>
 <h3 align="center">CSE Student | Machine Learning & Quantum AI Researcher</h3>
