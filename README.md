@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/18V7_m8I3by0H9HAfoAsjnorxbm4Wfrl1/view?usp=sharing)
+![MasterHead](https://github.com/ahona-omi/ahona-omi/blob/main/githubcover.png)
 
 <h1 align="center">Hi 👋, I'm Ahona Rahman</h1>
 <h3 align="center">CSE Student | Machine Learning & Quantum AI Researcher</h3>
