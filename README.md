@@ -19,7 +19,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">🤝 Connect with me 🤝</h2>
+<h2 align="center">👩🏽‍💻 Connect with me 👩🏽‍💻</h2>
 
 <p align="center">
 <a href="https://dev.to/ahona_omi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahona_omi" height="30" width="40" /></a>
