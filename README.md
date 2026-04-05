@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahona+Rahman!;" />
 </h1>
-<h3 align="center">CSE Student | Machine Learning & Quantum AI Researcher</h3>
+<h3 align="center">CSE Graduate | Machine Learning & Quantum AI Researcher</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahona-omi&label=Profile%20views&color=0e75b6&style=flat" alt="ahona-omi" /> </p>
