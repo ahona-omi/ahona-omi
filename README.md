@@ -1,16 +1,18 @@
 ![MasterHead](https://github.com/ahona-omi/ahona-omi/blob/main/githubcover.png)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahona+Rahman!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=As-salamu+alaykum+👋;+I'm+Ahona+Rahman!;" />
 </h1>
 <h3 align="center">CSE Graduate | Machine Learning & Quantum AI Researcher</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahona-omi&label=Profile%20views&color=0e75b6&style=flat" alt="ahona-omi" /> </p>
 
-- 🔭 I've successfully completed my undergrad research on [QUANT-HemoDx: Quantum AI Computing for Clinical Diagnosis of Acute Lymphoblastic Leukemia](https://dx.doi.org/10.2139/ssrn.5886227)
+- 🔎 I've completed my undergrad research on [QUANT-HemoDx: Quantum AI Computing for Clinical Diagnosis of Acute Lymphoblastic Leukemia](https://dx.doi.org/10.2139/ssrn.5886227)
 
-- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence**
+- 📱 I've designed and implemented a Flutter-based mobile application [CraftCraze: An e-commerce app for sellers, buyers, and admin](https://www.linkedin.com/posts/ahona-rahman-844926233_androidstudio-mobileapp-flutter-activity-7196870649045245952-loOW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpV6zQBtQt9EP5k1BGjjJnbfvGFTmuNRNw)
+
+- 💡 I’m currently learning **Machine Learning, Artificial Intelligence, Quantum Computing**
 
 - 📫 How to reach me **ahona.omi0818@gmail.com**
 
