@@ -10,7 +10,7 @@
 
 - 🔎 I've completed my undergrad research on [QUANT-HemoDx: Quantum AI Computing for Clinical Diagnosis of Acute Lymphoblastic Leukemia](https://dx.doi.org/10.2139/ssrn.5886227)
 
-- 📱 I've designed and implemented a Flutter-based mobile application [CraftCraze: An e-commerce app for sellers, buyers, and admin](https://www.linkedin.com/posts/ahona-rahman-844926233_androidstudio-mobileapp-flutter-activity-7196870649045245952-loOW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpV6zQBtQt9EP5k1BGjjJnbfvGFTmuNRNw)
+- 📱 I've designed and implemented a Flutter-based mobile application [CraftCraze: An e-commerce android app for sellers, buyers, and admin](https://www.linkedin.com/posts/ahona-rahman-844926233_androidstudio-mobileapp-flutter-activity-7196870649045245952-loOW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpV6zQBtQt9EP5k1BGjjJnbfvGFTmuNRNw)
 
 - 💡 I’m currently learning **Machine Learning, Artificial Intelligence, Quantum Computing**
 
@@ -83,7 +83,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ahona-omi/ahona-omi/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
