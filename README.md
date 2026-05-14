@@ -1,8 +1,11 @@
 ![MasterHead](https://github.com/ahona-omi/ahona-omi/blob/main/githubcover.png)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=As-salamu+alaykum+(Peace+be+upon+you)+👋;+I'm+Ahona+Rahman!;" />
-</h1>
+<div align="center" style="width: 100%;">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=As-salamu+alaykum+(Peace+be+upon+you)+👋;+I'm+Ahona+Rahman!;" 
+    style="width: 100%; max-width: 1000px;" 
+  />
+</div>
 <h3 align="center">CSE Graduate | Machine Learning & Quantum AI Researcher</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
