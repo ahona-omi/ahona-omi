@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ahona.omi0818@gmail.com**
 
-- 📄 Check out my professional background: [My Resume](https://drive.google.com/file/d/15f2NF9QkpPu6lw2N-WI195n9ByOUuKbZ/view?usp=sharing)
+- 📄 Check out my professional background: [My Resume](https://drive.google.com/file/d/1qBkPBC0-3Q42bk0kgGesjS8Ni0P6VRgV/view?usp=sharing)
 
 <br/>
 <hr/>
