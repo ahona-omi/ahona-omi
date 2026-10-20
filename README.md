@@ -9,7 +9,7 @@
        width="100%" />
 </p>
 
-<h1 align="center">Ahona Rahman</h1>
+<h1 align="center">As-salamu alaykum (Peace be upon you)</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&height=50&lines=Quantum+Machine+Learning;AI%2FML+%26+Deep+Learning;Research+%7C+Engineering+%7C+Innovation"
