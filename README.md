@@ -12,7 +12,7 @@
 <h1 align="center">Ahona Rahman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&height=50&lines=AI%2FML+%26+Deep+Learning;Quantum+Machine+Learning;Research+%7C+Engineering+%7C+Innovation"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&height=50&lines=Quantum+Machine+Learning;AI%2FML+%26+Deep+Learning;Research+%7C+Engineering+%7C+Innovation"
        alt="Typing introduction" />
 </p>
 
@@ -21,9 +21,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ahona-omi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
   <a href="https://scholar.google.com/citations?user=PtEkgn4AAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
   </a>
@@ -33,17 +30,9 @@
   <a href="mailto:ahona.omi0818@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://lnkd.in/gfG2_FKd">
-  <img src="https://img.shields.io/badge/Presented_at-Early_Detection_of_Cancer_2026-4285F4?style=flat-square&logo=academia&logoColor=white" />
-</a>
 </p>
 
 ---
-
-<!-- ======================================================= -->
-<!--                     ABOUT ME                            -->
-<!-- ======================================================= -->
-
 
 <!-- ======================================================= -->
 <!--                       ABOUT ME                          -->
@@ -56,17 +45,15 @@
      width="350"
      src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
 
-I am a Computer Science and Engineering graduate from the **University of Dhaka**, interested in exploring the intersection of artificial intelligence, machine learning, and quantum computing.
+I am a Computer Science and Engineering graduate from the **University of Dhaka, Bangladesh**, interested in exploring the intersection of  quantum computing, and machine learning.
 
 I currently work in the **Tech Acceleration Program at IDLC Finance PLC**, while developing my research and engineering expertise.
 
 **Research & Technical Interests:**
 
-- Artificial Intelligence and Machine Learning
-- Deep Learning and Computer Vision
 - Quantum Machine Learning (QML)
 - Hybrid Quantum-Classical Computing
-- Digital Pathology and Healthcare AI
+- Machine Learning, Deep Learning and Computer Vision
 - Software Engineering and Intelligent Applications
 
 I enjoy investigating research problems, implementing computational approaches, and building practical software solutions.
@@ -120,7 +107,7 @@ Our research explores a hybrid quantum-classical artificial intelligence framewo
 
 **Conference Presentation:**
 
-- **Event:** The Early Detection of Cancer Conference 2026
+- **Event:** [The Early Detection of Cancer Conference 2026](https://www.earlydetectionresearch.com/)
 - **Presentation:** Poster 162
 - **Date:** 6–8 October 2026
 - **Venue:** Edinburgh, United Kingdom
@@ -140,8 +127,8 @@ Our research explores a hybrid quantum-classical artificial intelligence framewo
 
 **Conference Resources:**
 
-- 📄 [Official Conference Abstract Booklet — Poster 162, Page 174](https://lnkd.in/gfG2_FKd)
-- 🔗 [Official Conference Poster Directory](https://lnkd.in/g62_A82M)
+- 📄 [Official Conference Abstract Booklet — Poster 162, Page 174](https://drive.google.com/file/d/1ulEw9I0DjD-IYbHNhYuzq8YfbRe1JhrE/view)
+- 🔗 [Official Conference Poster Directory](https://features.cancerresearchuk.org/TheEarlyDetectionofCancerConference2026/postermenu/)
 
 ---
 
@@ -312,10 +299,10 @@ I am interested in research collaborations, academic opportunities, AI/ML projec
 </p>
 
 <p align="center">
-  <a href="https://dev.to/ahona_omi">Dev.to</a> ·
-  <a href="https://kaggle.com/ahonarahman">Kaggle</a> ·
   <a href="https://leetcode.com/shakcunni_404">LeetCode</a> ·
   <a href="https://codeforces.com/profile/dumb_brain420">Codeforces</a>
+  <a href="https://dev.to/ahona_omi">Dev.to</a> ·
+  <a href="https://kaggle.com/ahonarahman">Kaggle</a> ·
 </p>
 
 <p align="center">
