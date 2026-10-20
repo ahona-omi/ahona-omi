@@ -1,73 +1,271 @@
-![MasterHead](https://github.com/ahona-omi/ahona-omi/blob/main/githubcover.png)
 
-<div align="center" style="width: 100%;">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=As-salamu+alaykum+(Peace+be+upon+you)+👋;+I'm+Ahona+Rahman!;" 
-    style="width: 100%; max-width: 1000px;" 
-  />
-</div>
+<!-- ======================================================= -->
+<!--                  PROFILE HEADER                         -->
+<!-- ======================================================= -->
 
-<h3 align="center">CSE Graduate | Aspiring Quantum AI Researcher</h3>
-
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
-- 🔎 I've completed my undergrad research on [QUANT-HemoDx: Quantum AI Computing for Clinical Diagnosis of Acute Lymphoblastic Leukemia](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PtEkgn4AAAAJ&citation_for_view=PtEkgn4AAAAJ:u5HHmVD_uO8C)
-
-- 💡 I’m currently learning **Quantum Computing, Machine Learning, Artificial Intelligence**
-
-- 📱 I've designed and implemented a Flutter-based mobile application [CraftCraze: An e-commerce app for sellers, buyers, and admin](https://www.linkedin.com/posts/ahona-rahman-844926233_androidstudio-mobileapp-flutter-activity-7196870649045245952-loOW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpV6zQBtQt9EP5k1BGjjJnbfvGFTmuNRNw)
-
-- 📫 How to reach me: **ahona.omi0818@gmail.com**
-
-- 📄 Check out my professional background: [My Resume](https://drive.google.com/file/d/1i8ltgWa1jttsmPoupzwojhGyrxBKLHHW/view?usp=sharing)
-
-<br/>
-<hr/>
-
-
-<h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="https://dev.to/ahona_omi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahona_omi" height="30" width="40" /></a>
-<a href="https://twitter.com/omi_ahona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omi_ahona" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahona-rahman-omi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahona-rahman-omi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ahonaomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahonaomi" height="30" width="40" /></a>
-<a href="https://kaggle.com/ahonarahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahonarahman" height="30" width="40" /></a>
-<a href="https://fb.com/ahona.omiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahona.omiii" height="30" width="40" /></a>
-<a href="https://instagram.com/shakcunni_____404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakcunni_____404" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ahona_omi0818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahona_omi0818" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ahona_omi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ahona_omi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahona_omi0818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahona_omi0818" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dumb_brain420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dumb_brain420" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shakcunni_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shakcunni_404" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/ahona.omi0818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ahona.omi0818" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ahonaomi0818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ahonaomi0818" height="30" width="40" /></a>
-<a href="https://discord.gg/HFDf3xGzww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HFDf3xGzww" height="30" width="40" /></a>
+  <img src="https://github.com/ahona-omi/ahona-omi/blob/main/githubcover.png?raw=true"
+       alt="Ahona Rahman - AI and Quantum Computing"
+       width="100%" />
 </p>
 
-<br/>
-<hr/>
+<h1 align="center">Ahona Rahman</h1>
 
-<h2 align="center">Languages and Tools</h2>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&height=50&lines=AI%2FML+%26+Deep+Learning;Quantum+Machine+Learning;Research+%7C+Engineering+%7C+Innovation"
+       alt="Typing introduction" />
+</p>
 
-<br/>
-<hr/>
+<p align="center">
+  <strong>CSE Graduate · AI/ML Research · Quantum Computing · Software Engineering</strong>
+</p>
 
-<div align="center">
-  <h2>My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ahona-omi/ahona-omi/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
-</div>
+<p align="center">
+  <a href="https://github.com/ahona-omi">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=PtEkgn4AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="https://linkedin.com/in/ahona-rahman-omi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ahona.omi0818@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<hr/>
+---
 
-<h2 align="center">Stats</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ahona-omi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ahona-omi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ahona-omi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<!-- ======================================================= -->
+<!--                     ABOUT ME                            -->
+<!-- ======================================================= -->
+
+## About Me
+
+I am a Computer Science and Engineering graduate from the **University of Dhaka**, interested in exploring the intersection of artificial intelligence, machine learning, and quantum computing.
+
+I currently work in the **Tech Acceleration Program at IDLC Finance PLC**, while developing my research and engineering expertise.
+
+My interests include:
+
+- Artificial Intelligence and Machine Learning
+- Deep Learning and Computer Vision
+- Quantum Machine Learning (QML)
+- Hybrid Quantum-Classical Computing
+- Healthcare AI and Medical Image Analysis
+- Software Engineering and Intelligent Applications
+
+I enjoy investigating research problems, implementing computational approaches, and building practical software solutions.
+
+---
+
+<!-- ======================================================= -->
+<!--                  RESEARCH INTERESTS                     -->
+<!-- ======================================================= -->
+
+## Research Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Research-70A5FD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep_Learning-Research-70A5FD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Quantum_ML-Research-A78BFA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer_Vision-Research-70A5FD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Healthcare_AI-Research-34D399?style=flat-square" />
+</p>
+
+I am particularly interested in:
+
+1. **Quantum Machine Learning:** Exploring variational quantum circuits and hybrid quantum-classical learning architectures.
+2. **Deep Learning:** Developing and evaluating neural network architectures for complex classification problems.
+3. **Medical Image Analysis:** Investigating AI-based approaches for medical image understanding and disease classification.
+4. **Trustworthy AI:** Understanding model robustness, reliability, interpretability, and generalization.
+
+---
+
+<!-- ======================================================= -->
+<!--                  RESEARCH PROJECTS                      -->
+<!-- ======================================================= -->
+
+## Research & Academic Projects
+
+### 1. QUANT-HemoDx
+
+**Quantum AI Computing for Clinical Diagnosis of Acute Lymphoblastic Leukemia**
+
+<p>
+  <img src="https://img.shields.io/badge/Domain-Healthcare_AI-34D399?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Hybrid_Quantum--Classical-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Undergraduate_Research-4285F4?style=flat-square" />
+</p>
+
+My undergraduate research project explored the application of deep learning and variational quantum circuits to Acute Lymphoblastic Leukemia (ALL) diagnosis.
+
+**Research focus:**
+- Deep learning-based image classification.
+- Integration of variational quantum circuits.
+- Hybrid quantum-classical learning approaches.
+- Investigation of computational approaches for leukemia diagnosis.
+
+**Research reference:** [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PtEkgn4AAAAJ&citation_for_view=PtEkgn4AAAAJ:u5HHmVD_uO8C)
+
+---
+
+<!-- ======================================================= -->
+<!--                   SELECTED PROJECTS                     -->
+<!-- ======================================================= -->
+
+## Selected Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>CraftCraze</h3>
+      <p>
+        A Flutter-based e-commerce mobile application designed
+        to support buyers, sellers, and administrators.
+      </p>
+      <p>
+        <strong>Technologies:</strong><br/>
+        Flutter · Dart · Firebase
+      </p>
+      <a href="https://www.linkedin.com/posts/ahona-rahman-844926233_androidstudio-mobileapp-flutter-activity-7196870649045245952-loOW">
+        Project Overview →
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>QUANT-HemoDx</h3>
+      <p>
+        An undergraduate research project investigating
+        deep learning and variational quantum circuits
+        for ALL diagnosis.
+      </p>
+      <p>
+        <strong>Research areas:</strong><br/>
+        Deep Learning · Quantum ML · Medical Imaging
+      </p>
+      <a href="https://scholar.google.com/citations?user=PtEkgn4AAAAJ&hl=en">
+        Research Profile →
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ======================================================= -->
+<!--                  TECHNICAL EXPERTISE                    -->
+<!-- ======================================================= -->
+
+## Technical Skills & Tools
+
+### AI, Machine Learning & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="Python, PyTorch and TensorFlow" />
+</p>
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Scikit-learn
+- Pandas
+- Hybrid Quantum-Classical Learning
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,dart&theme=dark" alt="Programming languages" />
+</p>
+
+### Software Engineering & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,react,nodejs,html,css,bootstrap,tailwind&theme=dark" alt="Development technologies" />
+</p>
+
+### Databases & Cloud Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,azure&theme=dark" alt="Database and cloud technologies" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,postman,vscode&theme=dark" alt="Development tools" />
+</p>
+
+---
+
+<!-- ======================================================= -->
+<!--                   GITHUB ANALYTICS                      -->
+<!-- ======================================================= -->
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="49%"
+       src="https://github-readme-stats.vercel.app/api?username=ahona-omi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+       alt="GitHub statistics" />
+  <img width="49%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahona-omi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+       alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img width="65%"
+       src="https://streak-stats.demolab.com?user=ahona-omi&theme=tokyonight&hide_border=true"
+       alt="GitHub contribution streak" />
+</p>
+
+---
+
+<!-- ======================================================= -->
+<!--                  CONTRIBUTION ACTIVITY                  -->
+<!-- ======================================================= -->
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahona-omi/ahona-omi/output/github-contribution-grid-snake.svg"
+       alt="GitHub contribution graph animation"
+       width="100%" />
+</p>
+
+---
+
+<!-- ======================================================= -->
+<!--                    CONNECT WITH ME                      -->
+<!-- ======================================================= -->
+
+## Connect & Collaborate
+
+I am interested in research collaborations, academic opportunities, AI/ML projects, quantum computing research, and software engineering.
+
+<p align="center">
+  <a href="https://linkedin.com/in/ahona-rahman-omi">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=PtEkgn4AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-Research_Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="mailto:ahona.omi0818@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://dev.to/ahona_omi">Dev.to</a> ·
+  <a href="https://kaggle.com/ahonarahman">Kaggle</a> ·
+  <a href="https://leetcode.com/shakcunni_404">LeetCode</a> ·
+  <a href="https://codeforces.com/profile/dumb_brain420">Codeforces</a>
+</p>
+
+<p align="center">
+  <em>Exploring ideas. Building intelligent systems. Advancing research.</em>
+</p>
+
+<p align="center">
+  <sub>Thanks for visiting my profile!</sub>
+</p>
