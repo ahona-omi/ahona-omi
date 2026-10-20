@@ -21,6 +21,9 @@
 </p>
 
 <p align="center">
+  <a href="https://drive.google.com/file/d/1i8ltgWa1jttsmPoupzwojhGyrxBKLHHW/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View My CV"/>
+  </a>
   <a href="https://scholar.google.com/citations?user=PtEkgn4AAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
   </a>
