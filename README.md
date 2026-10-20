@@ -22,16 +22,16 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1i8ltgWa1jttsmPoupzwojhGyrxBKLHHW/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View My CV"/>
+    <img src="https://img.shields.io/badge/View_My_CV-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="View My CV"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=PtEkgn4AAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  <a href="https://linkedin.com/in/ahona-rahman-omi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linkedin.com/in/ahona-rahman-omi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://scholar.google.com/citations?user=PtEkgn4AAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="mailto:ahona.omi0818@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
