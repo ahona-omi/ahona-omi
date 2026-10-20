@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/View_My_CV-34A853?style=flat-square&logo=googledrive&logoColor=white" alt="View My CV"/>
   </a>
   <a href="https://linkedin.com/in/ahona-rahman-omi" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
 </a>
   <a href="https://scholar.google.com/citations?user=PtEkgn4AAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
