@@ -11,10 +11,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ahona-omi" alt="Profile Views" />
-</p>
-
 - 🔎 I've completed my undergrad research on [QUANT-HemoDx: Quantum AI Computing for Clinical Diagnosis of Acute Lymphoblastic Leukemia](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PtEkgn4AAAAJ&citation_for_view=PtEkgn4AAAAJ:u5HHmVD_uO8C)
 
 - 💡 I’m currently learning **Quantum Computing, Machine Learning, Artificial Intelligence**
