@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <strong>CSE Graduate · AI/ML Research · Quantum Computing · Software Engineering</strong>
+  <strong>CSE Graduate· Quantum Computing · AI/ML Research  · Software Engineering</strong>
 </p>
 
 <p align="center">
@@ -33,6 +33,9 @@
   <a href="mailto:ahona.omi0818@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://lnkd.in/gfG2_FKd">
+  <img src="https://img.shields.io/badge/Presented_at-Early_Detection_of_Cancer_2026-4285F4?style=flat-square&logo=academia&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -41,24 +44,37 @@
 <!--                     ABOUT ME                            -->
 <!-- ======================================================= -->
 
+
+<!-- ======================================================= -->
+<!--                       ABOUT ME                          -->
+<!-- ======================================================= -->
+
 ## About Me
+
+<img align="right"
+     alt="Coding Animation"
+     width="350"
+     src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
 
 I am a Computer Science and Engineering graduate from the **University of Dhaka**, interested in exploring the intersection of artificial intelligence, machine learning, and quantum computing.
 
 I currently work in the **Tech Acceleration Program at IDLC Finance PLC**, while developing my research and engineering expertise.
 
-My interests include:
+**Research & Technical Interests:**
 
 - Artificial Intelligence and Machine Learning
 - Deep Learning and Computer Vision
 - Quantum Machine Learning (QML)
 - Hybrid Quantum-Classical Computing
-- Healthcare AI and Medical Image Analysis
+- Digital Pathology and Healthcare AI
 - Software Engineering and Intelligent Applications
 
 I enjoy investigating research problems, implementing computational approaches, and building practical software solutions.
 
+<br clear="right"/>
+
 ---
+
 
 <!-- ======================================================= -->
 <!--                  RESEARCH INTERESTS                     -->
@@ -67,19 +83,17 @@ I enjoy investigating research problems, implementing computational approaches, 
 ## Research Interests
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Quantum_ML-Research-A78BFA?style=flat-square" />
   <img src="https://img.shields.io/badge/Artificial_Intelligence-Research-70A5FD?style=flat-square" />
   <img src="https://img.shields.io/badge/Deep_Learning-Research-70A5FD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Quantum_ML-Research-A78BFA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer_Vision-Research-70A5FD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Healthcare_AI-Research-34D399?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer_Vision-Research-70A5FD?style=flat-square" 
 </p>
 
 I am particularly interested in:
 
 1. **Quantum Machine Learning:** Exploring variational quantum circuits and hybrid quantum-classical learning architectures.
 2. **Deep Learning:** Developing and evaluating neural network architectures for complex classification problems.
-3. **Medical Image Analysis:** Investigating AI-based approaches for medical image understanding and disease classification.
-4. **Trustworthy AI:** Understanding model robustness, reliability, interpretability, and generalization.
+3. **Trustworthy AI:** Understanding model robustness, reliability, interpretability, and generalization.
 
 ---
 
@@ -87,27 +101,68 @@ I am particularly interested in:
 <!--                  RESEARCH PROJECTS                      -->
 <!-- ======================================================= -->
 
+
+<!-- ======================================================= -->
+<!--                  RESEARCH & ACADEMIC PROJECTS           -->
+<!-- ======================================================= -->
+
 ## Research & Academic Projects
 
-### 1. QUANT-HemoDx
+### 1. Quantum AI Digital Pathology: A Bio-Quantum Intelligence Framework for Early Blood Cancer Detection
 
-**Quantum AI Computing for Clinical Diagnosis of Acute Lymphoblastic Leukemia**
+<p>
+  <img src="https://img.shields.io/badge/Conference-Early_Detection_of_Cancer_2026-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Presentation-Poster_162-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research-Hybrid_Quantum--Classical_AI-34D399?style=flat-square" />
+</p>
+
+Our research explores a hybrid quantum-classical artificial intelligence framework for early blood cancer detection through digital pathology, combining deep learning with quantum machine learning.
+
+**Conference Presentation:**
+
+- **Event:** The Early Detection of Cancer Conference 2026
+- **Presentation:** Poster 162
+- **Date:** 6–8 October 2026
+- **Venue:** Edinburgh, United Kingdom
+- **Organizers:** Cancer Research UK, German Cancer Research Center (DKFZ), and OHSU Knight Cancer Institute
+
+**Research Focus:**
+
+- Deep learning for digital pathology.
+- Integration of quantum machine learning into computational pathology.
+- Hybrid quantum-classical AI architectures.
+- Exploring emerging computational approaches for early blood cancer detection.
+
+**Supervision & Collaboration:**
+
+- Prof. Dr. Hafiz Mohammad Hasan Babu
+- Joty Saha
+
+**Conference Resources:**
+
+- 📄 [Official Conference Abstract Booklet — Poster 162, Page 174](https://lnkd.in/gfG2_FKd)
+- 🔗 [Official Conference Poster Directory](https://lnkd.in/g62_A82M)
+
+---
+
+### 2. QUANT-HemoDx: Quantum AI Computing for Clinical Diagnosis of Acute Lymphoblastic Leukemia
 
 <p>
   <img src="https://img.shields.io/badge/Domain-Healthcare_AI-34D399?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Hybrid_Quantum--Classical-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Quantum_Machine_Learning-8B5CF6?style=flat-square" />
   <img src="https://img.shields.io/badge/Type-Undergraduate_Research-4285F4?style=flat-square" />
 </p>
 
 My undergraduate research project explored the application of deep learning and variational quantum circuits to Acute Lymphoblastic Leukemia (ALL) diagnosis.
 
-**Research focus:**
+**Research Focus:**
+
 - Deep learning-based image classification.
 - Integration of variational quantum circuits.
 - Hybrid quantum-classical learning approaches.
 - Investigation of computational approaches for leukemia diagnosis.
 
-**Research reference:** [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PtEkgn4AAAAJ&citation_for_view=PtEkgn4AAAAJ:u5HHmVD_uO8C)
+**Research Reference:** [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PtEkgn4AAAAJ&citation_for_view=PtEkgn4AAAAJ:u5HHmVD_uO8C)
 
 ---
 
@@ -133,21 +188,22 @@ My undergraduate research project explored the application of deep learning and 
         Project Overview →
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>QUANT-HemoDx</h3>
-      <p>
-        An undergraduate research project investigating
-        deep learning and variational quantum circuits
-        for ALL diagnosis.
-      </p>
-      <p>
-        <strong>Research areas:</strong><br/>
-        Deep Learning · Quantum ML · Medical Imaging
-      </p>
-      <a href="https://scholar.google.com/citations?user=PtEkgn4AAAAJ&hl=en">
-        Research Profile →
+    
+<td width="50%" valign="top">
+  <h3>Smart Academic Manager</h3>
+  <p>
+    A centralized student management system designed
+    to organize academic activities, monitor student
+    performance, and manage educational workflows.
+  </p>
+  <p>
+    <strong>Technologies:</strong><br/>
+    Java · JavaFX · CSS · FXML · MySQL
+  </p>
+  <a href="https://github.com/afia-lubaina/Smart-Academic-Manager/tree/SAM">
+        Project Overview →
       </a>
-    </td>
+</td>
   </tr>
 </table>
 
