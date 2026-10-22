@@ -24,7 +24,7 @@
   <a href="https://ahona-rahman.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-  <a href="https://drive.google.com/file/d/1i8ltgWa1jttsmPoupzwojhGyrxBKLHHW/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1mtOd7-KXDzmur40r_uNji8fHPOvunq2S/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/My_CV-34A853?style=flat-square&logo=googledrive&logoColor=white" alt="View My CV"/>
   </a>
   <a href="https://linkedin.com/in/ahona-rahman-omi" target="_blank">
